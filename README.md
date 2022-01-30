@@ -1,4 +1,4 @@
-## Hi!!
+## Hello There!
 
 I am Dhruv Sangamwar and I'm currently a Molecular Biology & Biochemistry Major at UC Davis, althogh I am currently working towards a B.Sc. in Computer Science.
 You will find a few of my projects on this page.
