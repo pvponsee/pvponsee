@@ -11,7 +11,7 @@ You will find a few of my projects on this page.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,dhruvsangamwar.github.io)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
