@@ -1,12 +1,11 @@
 ## Hello There!
 
-I am Dhruv Sangamwar and I'm currently a Molecular Biology & Biochemistry Major at UC Davis, althogh I am currently working towards a B.Sc. in Computer Science.
-You will find a few of my projects on this page.
+I am Dhruv Sangamwar and I'am currently pursuing a B.S in Computer Science at University Of California Davis.
 
-- 🔭 I’m currently working on a program that calculates the RMSD between known molecular data and predictions made by AlphaFold
-- 🌱 I’m currently learning object oriented programming in C++
+- 🔭 I’m currently working on a pomodoro app in SwiftUI.
+- 🌱 I’m currently learning Scala, C#, and SwiftUI.
 - 👤 I'm currently working at:
-  [NOMΛD](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry.
+  [Solidigm](https://www.solidigm.com/), a new collaborative start-up between Intel and SK Hynix with aim to provide cutting edge NAND SSD technology to customers. 
 
 </div>
 
