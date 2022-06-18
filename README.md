@@ -9,5 +9,8 @@ I am Dhruv Sangamwar and I'am currently pursuing a B.S in Computer Science at Un
 
 </div>
 
-Feel free to contact me on [Linkedin](https://www.linkedin.com/in/dhruv-sangamwar-59711118a), or [email me](mailto:sangamward@gmail.com).
-Check out my website! [dhruvsangamwar.github.io](dhruvsangamwar.github.io)
+Check out my website! [dhruvsangamwar.github.io](dhruvsangamwar.github.io).
+
+</div>
+
+Feel free to contact me on [Linkedin](https://www.linkedin.com/in/dhruv-sangamwar-59711118a), or [email me](mailto:sangamward@gmail.com). 
