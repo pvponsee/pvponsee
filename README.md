@@ -9,7 +9,7 @@ I am Dhruv Sangamwar and I'am currently pursuing a B.S in Computer Science at Un
 
 </div>
 
-Check out my website! [dhruvsangamwar.github.io](dhruvsangamwar.github.io).
+Check out my [website](dhruvsangamwar.github.io)!
 
 </div>
 
