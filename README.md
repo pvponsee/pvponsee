@@ -2,10 +2,10 @@
 
 I am Dhruv Sangamwar and I'am currently pursuing a B.S in Computer Science at University Of California Davis.
 
-- 🔭 I’m currently working on a pomodoro app in SwiftUI.
-- 🌱 I’m currently learning Scala, C#, and SwiftUI.
-- 👤 I'm currently working at:
-  [Solidigm](https://www.solidigm.com/), a new collaborative start-up between Intel and SK Hynix with aim to provide cutting edge NAND SSD technology to customers. 
+- 🔭 I’m currently working on [Flashy](https://github.com/ThaumicMekanism/calhacks-2023). An AI powered Flashcard app.
+- 🌱 I’m currently learning NextJS, Ruby on Rails.
+- 👤 I used to work at:
+  [Solidigm](https://www.solidigm.com/) formerly Intel NPSG, aiming to provide cutting edge NAND SSD technology to customers. 
 
 </div>
 
