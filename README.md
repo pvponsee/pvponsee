@@ -1,6 +1,6 @@
 ## Hello There!
 
-I am Dhruv Sangamwar and I'am currently pursuing a B.S in Computer Science at University Of California Davis.
+I am Dhruv Sangamwar and I'am currently pursuing a B.S in Computer Science at University of California Davis.
 
 - 🔭 I’m currently working on [Flashy](https://github.com/ThaumicMekanism/calhacks-2023). An AI powered Flashcard app.
 - 🌱 I’m currently learning NextJS and Ruby on Rails.
