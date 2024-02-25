@@ -9,4 +9,4 @@ My name is **Dhruv Sangamwar** and I'am currently pursuing a B.S in Computer Sci
 
 Visit my [personal notion page](https://dhruvsangamwar.notion.site/Dhruv-Sangamwar-4836159b060b4e43be8d09990ebe6e6c?pvs=4)
 
-Feel free to contact me on [Linkedin](https://www.linkedin.com/in/dhruv-sangamwar-59711118a), or [email me](mailto:sangamward@gmail.com). 
+Feel free to contact me on [Linkedin](https://www.linkedin.com/in/dhruv-sangamwar-59711118a), or [email me](mailto:dsangamwar@gmail.com). 
