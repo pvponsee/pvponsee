@@ -7,6 +7,6 @@ My name is **Dhruv Sangamwar** and I'am currently pursuing a B.S in Computer Sci
 - 👤 I used to work at:
   [Solidigm](https://www.solidigm.com/) formerly Intel NPSG, a SK Hynix owned aiming to provide cutting edge NAND SSD technology to customers. 
 
-Visit my [personal notion page](https://dhruvsangamwar.notion.site/Dhruv-Sangamwar-4836159b060b4e43be8d09990ebe6e6c?pvs=4)
+Visit my [personal website](https://dhruvsangamwar.com)
 
 Feel free to contact me on [Linkedin](https://www.linkedin.com/in/dhruv-sangamwar-59711118a), or [email me](mailto:dsangamwar@gmail.com). 
