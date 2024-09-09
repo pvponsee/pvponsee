@@ -1,9 +1,8 @@
 ## Hello There!
 
-My name is **Dhruv Sangamwar** and I'am currently pursuing a B.S in Computer Science at **University of California, Davis**.
+My name is **Dhruv Sangamwar** and I'am a recent graduate from **University of California, Davis** where I studied Computer Science.
 
-- 🔭 I’m currently working on a [Rust SDK](https://github.com/dhruvsangamwar/resilientDB-rust-sdk) for [ResilientDB](https://github.com/resilientdb/resilientdb)
-- 🌱 Also teaching a class on [competitive programming](https://dhruvsangamwar.notion.site/ECS-198F-Diving-deep-into-the-world-of-Algorithms-Competitive-programming-and-more-4faece565e2e4c25a517970354a66102?pvs=4).
+- 🔭 I’m currently working Davis Housing Project, a local business that matches students to host families for foreigin exchange program.
 - 👤 I used to work at:
   [Solidigm](https://www.solidigm.com/) formerly Intel NPSG, a SK Hynix owned aiming to provide cutting edge NAND SSD technology to customers. 
 
